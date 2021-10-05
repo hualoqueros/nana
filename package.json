@@ -1,8 +1,8 @@
 {
-  "name": "nana",
+  "name": "faramis",
   "version": "1.0.0",
   "description": "encryptor decryptor",
-  "main": "main.js",
+  "main": "index.js",
   "dependencies": {
     "crypto-js": "^4.1.1"
   },
